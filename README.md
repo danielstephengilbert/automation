@@ -1,2 +1,2 @@
-# vm-automation
-Scripts to automate VM creation
+# automation
+ Scripts to automate system configurations.
